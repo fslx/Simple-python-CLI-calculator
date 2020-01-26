@@ -14,5 +14,3 @@ else:
     exit()    
 
 
-
-#GUI options here:
