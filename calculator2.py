@@ -3,9 +3,9 @@
 
 def main():
 
-    num1 = float(input("Enter a number: "))
-    operator = input("Enter an operator: ")
-    num2 = float(input("Enter another number: "))
+    num1 = float(input("Number: "))
+    operator = input("+ - / *: ")
+    num2 = float(input("Number: "))
 
 
     if operator == "+":
